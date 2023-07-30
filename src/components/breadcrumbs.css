@@ -1,0 +1,15 @@
+.breadcrumbs{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 50px;
+    align-items: center;
+    justify-content: flex-start;
+    /* background-color: #F8FAFD; */
+}
+.back{
+    font-size: 14px;
+}
+.sch_appointment{
+    font-size: 18px;
+    font-weight: bold;
+}

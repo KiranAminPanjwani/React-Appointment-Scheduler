@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 0px;
+    background-color: white;
+    padding: 13px 50px;
+}
+.headerLinks{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: #5e6b70;
+}
+.headerLinks p{
+    margin: 15px;
+    font-size: small;
+}
+img{
+    width: 140px;
+}
+.getstarted{
+    padding: 10px 19px;
+    background-color: #324957;
+    color: white;
+    border-radius: 5px;
+}

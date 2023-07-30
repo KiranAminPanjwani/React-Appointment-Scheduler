@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 50px;
+    align-items: center;
+    justify-content: end;
+}
+
+.schedule-button{
+    font-size: 14px;
+    color: white;
+    border: none;
+    font-size: small;
+    padding: 10px 20px;
+    background-image: linear-gradient(to bottom, #5E9CD3, #3773A9);
+
+}
