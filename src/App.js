@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/header';
 import Breadcrumbs from './components/breadcrumbs';
-// import Calendar from './components/calendar';
 import Calendar from './components/calendar1';
 import Footer from './components/footer';
 
